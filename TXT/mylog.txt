@@ -6,3 +6,5 @@ ZCZC W00 100 L02 Zoom Meeting (Monday)
 ZCZC W00 100 L02 Zoom Meeting (Thursday)
 ZCZC W00 20 L06 Reading Power Point for week 0
 ZCZC W00 5 L06 Reading What defines an Operating System
+ZCZC W00 20 L10 Assigment week#00
+ZCZC W00 60 L06 Watching video about introduction to Operating System. Link : https://www.youtube.com/watch?v=vBURTt97EkA&t=623s
