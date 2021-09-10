@@ -16,3 +16,4 @@ ZCZC W01 100 L11 Study w/ friends || Assignment Week 1 related
 ZCZC W01 100 L02 Zoom Meeting (Thursday)
 ZCZC W01 125 L11 Continue to finish Assignment Week 1 until Assignment#4
 ZCZC W01 30 L11 Finishing Assignment Week 1 #5
+ZCZC W01 30 L11 Finishing Assignment Week 1 #6 && #7
