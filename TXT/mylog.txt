@@ -11,6 +11,7 @@ ZCZC W00 60 L06 Watching video about introduction to Operating System. Link : ht
 ZCZC W00 30 L31 Downloading & Installing Virtual Box
 ZCZC W00 20 L10 Reading Slide chapter 1 from Silberschatz
 ZCZC W00 100 L02 Zoom Meeting (Monday)
-ZCZC WOO 100 L11 Continue to finish Assignment Week 1 - Installing ISO & Running a virtual Guest
-ZCZC W00 100 L11 Study w/ friends || Assignment Week 1 related
-ZCZC W00 100 L02 Zoom Meeting (Thursday)
+ZCZC W01 100 L11 Continue to finish Assignment Week 1 - Installing ISO & Running a virtual Guest
+ZCZC W01 100 L11 Study w/ friends || Assignment Week 1 related
+ZCZC W01 100 L02 Zoom Meeting (Thursday)
+ZCZC W01 125 L11 Continue to finish Assignment Wekk 1 until Assignment#4
