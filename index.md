@@ -1,6 +1,7 @@
 ## Hello! Welcome to Indra Mahaarta's Operating Systems Page!
 
-[LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/indramahaarta/os212)
+[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/)  | [REPOSITORY](https://github.com/indramahaarta/os212)
 
-### Check my top 10 list
-1.
+#Hello Guys!!
+
+##I am I Made Indra Mahaarta. Welcome to my Repository <3
