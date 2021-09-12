@@ -19,3 +19,4 @@ ZCZC W01 30 L11 Finishing Assignment Week 1 #5
 ZCZC W01 30 L11 Finishing Assignment Week 1 #6 && #7
 ZCZC W01 100 L11 Finishing Assingment Week1 #8 && #9
 ZCZC W01 50 L24 Studying more about regex in https://www.howtogeek.com/661101/how-to-use-regular-expressions-regexes-on-linux/
+ZCZC W02 45 L00 Forum Discussion Forum related  
