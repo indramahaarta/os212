@@ -32,3 +32,4 @@ ZCZC W02 60 L12 Trying demos
 ZCZC W02 15 L09 Write a simple "myscript.sh" to generate SHA256SUM and SHA256SUM.asc
 ZCZC W02 30 L64 Helping OS related problem to my friend
 ZCZC W02 100 L05 Studying for Quiz 
+ZCZC W02 10 L64 Helping OS related problem to my friend
