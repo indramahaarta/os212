@@ -26,4 +26,9 @@ ZCZC W02 5 L12 Finishing assignment 2 #6
 ZCZC W02 5 L12 Finishing assingment 2 #7
 ZCZC W02 5 L12 Finishing assignment 2 #8
 ZCZC W02 30 L06 Reading What is Cycber Security?
-
+ZCZC W02 45 L11 Skimming OSC 10
+ZCZC W02 240 L13 Watching vid related
+ZCZC W02 60 L12 Trying demos
+ZCZC W02 15 L09 Write a simple "myscript.sh" to generate SHA256SUM and SHA256SUM.asc
+ZCZC W02 30 L64 Helping OS related problem to my friend
+ZCZC W02 100 L05 Strudying for Quiz 
