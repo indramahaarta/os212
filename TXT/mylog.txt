@@ -33,3 +33,8 @@ ZCZC W02 15 L09 Write a simple "myscript.sh" to generate SHA256SUM and SHA256SUM
 ZCZC W02 30 L64 Helping OS related problem to my friend
 ZCZC W02 100 L05 Studying for Quiz 
 ZCZC W02 10 L64 Helping OS related problem to my friend
+ZCZC W03 100 L02 Zoom meeting related
+ZCZC W03 10 L14 Finishing Assignment 4
+ZCZC W03 15 L15 Finishing Assignment 5
+ZCZC W03 15 L18 Finishing Assignment 8
+ZCZC W03 15 L19 Finishing Assignment 9
