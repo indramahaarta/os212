@@ -19,6 +19,6 @@ On this website, we can learn about definitions of cyber security, kind of cyber
 2. [C Language Introduction](https://www.geeksforgeeks.org/c-programming-language/#Basics)<br>
 This website provides us with an understanding of the basic concept and syntax in C programming languages. You will learn about variables, data types, input/output, operator, etc. I think this materials quite complete, so you can learn a lot about C language
 
-## Wekk 03
+## Week 03
 1. [Linux File System](https://www.javatpoint.com/linux-file-system)<br>
 You will learn about file system definition, the file system in Linux, Linux system features, and types of file systems in Linux. I chose this website because this website has an explanation about kinds of file systems in Linux, so i can improve my understanding after reading that.
