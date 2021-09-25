@@ -38,4 +38,12 @@ ZCZC W03 10 L14 Finishing Assignment 4
 ZCZC W03 15 L15 Finishing Assignment 5
 ZCZC W03 15 L18 Finishing Assignment 8
 ZCZC W03 15 L19 Finishing Assignment 9
-ZCZC W03 60 L19 Finishing Assignment 9 (Because of failure in partition disk. So, ineed to delete and start remake my gpg keys)
+ZCZC W03 60 L19 Finishing Assignment 9 (Because of failure in partition disk. So, i need to delete and start remake my gpg keys)
+ZCZC W03 100 L02 Zoom Meeting Related
+ZCZC W03 45 L12 Trying Demos
+ZCZC W03 60 L13 Trying some problems
+ZCZC W03 60 L11 Skimming OSC
+ZCZC W03 30 L16 Update my bookmark links
+ZCZC W03 30 L17 Review my friends links
+ZCZC W03 10 L18 Update My log again 
+ZCZC W03 30 L01 Forum related
