@@ -22,3 +22,7 @@ This website provides us with an understanding of the basic concept and syntax i
 ## Week 03
 1. [Linux File System](https://www.javatpoint.com/linux-file-system)<br>
 You will learn about file system definition, the file system in Linux, Linux system features, and types of file systems in Linux. I chose this website because this website has an explanation about kinds of file systems in Linux, so i can improve my understanding after reading that.
+
+## Week 04 
+1. [Pointer in C Programming: What is Pointer, Types, and Examples](https://www.guru99.com/c-pointers.html)<br>
+This website explains pointers, types of the pointer in C, and examples of programming that use the pointer. I get a lot of new knowledge about c programming here.

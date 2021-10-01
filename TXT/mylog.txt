@@ -48,5 +48,10 @@ ZCZC W03 30 L17 Review my friends links
 ZCZC W03 10 L18 Update My log again 
 ZCZC W03 30 L01 Forum related
 ZCZC W04 10 L14 Assignment #4
-ZCZC W04 30 L15 Assginment #5
-ZCZC W04 5 L18 Assginment #8
+ZCZC W04 30 L15 Assignment #5
+ZCZC W04 5 L18 Assignment #8
+ZCZC W04 30 L16 Assignment #6
+ZCZC W04 30 L17 Assignment #7
+ZCZC W04 5 L19 Submit Week04 Assignment #9
+ZCZC W04 60 L12 Try Demos
+
