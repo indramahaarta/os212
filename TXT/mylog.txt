@@ -54,4 +54,9 @@ ZCZC W04 30 L16 Assignment #6
 ZCZC W04 30 L17 Assignment #7
 ZCZC W04 5 L19 Submit Week04 Assignment #9
 ZCZC W04 60 L12 Try Demos
+ZCZC W04 60 L11 Assignment #1
+ZCZC W04 60 L13 Assignment #3
+ZCZC W04 100 L02 Zoom Meeting related
+ZCZC W04 100 L02 Zoom Meeting related
+ZCZC W04 100 L17 Finishing Assignment for TP SDA
 
