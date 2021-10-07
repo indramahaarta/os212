@@ -59,4 +59,11 @@ ZCZC W04 60 L13 Assignment #3
 ZCZC W04 100 L02 Zoom Meeting related
 ZCZC W04 100 L02 Zoom Meeting related
 ZCZC W04 100 L17 Finishing Assignment for TP SDA
+ZCZC W05 L14 45 Assignment #4
+ZCZC W05 L15 30 Assignment #5
+ZCZC W05 L17 30 Assignment #7
+ZCZC W05 L18 10 Assginemnt #8
+ZCZC W05 L19 10 Assignment #9
+ZCZC W05 L01 20 Finishing W05 contact in General Questions and Answer Forum
+ZCZC W015 100 L02 Zoom Metting on Tuesday
 

@@ -26,3 +26,7 @@ You will learn about file system definition, the file system in Linux, Linux sys
 ## Week 04 
 1. [Pointer in C Programming: What is Pointer, Types, and Examples](https://www.guru99.com/c-pointers.html)<br>
 This website explains pointers, types of the pointer in C, and examples of programming that use the pointer. I get a lot of new knowledge about c programming here.
+
+## Week 05
+1. [Difference Between Logical and Physical Address in Operating System](http://www.meerutcollege.org/mcm_admin/upload/1587052623.pdf)<br>
+This week we learn about memory, incredibly logical & physical memory. This pdf provides a relatively complete explanation of logical and physical memory, swapping, contiguous memory allocation, paging, segmentation, page replacement, etc. So it is suitable to be additional reading material to increase knowledge about memory
