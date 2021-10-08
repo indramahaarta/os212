@@ -65,5 +65,11 @@ ZCZC W05 L17 30 Assignment #7
 ZCZC W05 L18 10 Assginemnt #8
 ZCZC W05 L19 10 Assignment #9
 ZCZC W05 L01 20 Finishing W05 contact in General Questions and Answer Forum
-ZCZC W015 100 L02 Zoom Metting on Tuesday
-
+ZCZC W05 100 L02 Zoom Metting on Tuesday
+ZCZC W05 30 L01 Working on forum discussion question
+ZCZC W05 100 L02 Zoom metting on Thursday
+ZCZC W05 40 L05 Working on Quiz Assignment
+ZCZC W05 60 L11 Assignment #1
+ZCZC W05 60 L12 Assignment #2
+ZCZC W05 30 L13 Assignment #3
+ 
