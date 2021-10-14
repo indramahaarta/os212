@@ -30,3 +30,7 @@ This website explains pointers, types of the pointer in C, and examples of progr
 ## Week 05
 1. [Difference Between Logical and Physical Address in Operating System](http://www.meerutcollege.org/mcm_admin/upload/1587052623.pdf)<br>
 This week we learn about memory, incredibly logical & physical memory. This pdf provides a relatively complete explanation of logical and physical memory, swapping, contiguous memory allocation, paging, segmentation, page replacement, etc. So it is suitable to be additional reading material to increase knowledge about memory
+
+## Week 06
+1. [Concurrency in Operating Systems](https://www.javatpoint.com/concurrency-in-operating-system)<br>
+This website explains all about concurrency, start from the definition of concurrency, the principle of concurrency, problems in concurrency, issue of concurrency, and disadvantages & advantages in concurrency. These materials will help you to understand basic concurrency.
