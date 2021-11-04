@@ -34,3 +34,7 @@ This week we learn about memory, incredibly logical & physical memory. This pdf 
 ## Week 06
 1. [Concurrency in Operating Systems](https://www.javatpoint.com/concurrency-in-operating-system)<br>
 This website explains all about concurrency, start from the definition of concurrency, the principle of concurrency, problems in concurrency, issue of concurrency, and disadvantages & advantages in concurrency. These materials will help you to understand basic concurrency.
+
+## Week 07
+1. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+This website provides material about Synchronization, which is quite complete. The author also uses language that is easy to understand, so it is very suitable to help improve our understanding of Synchronization 
