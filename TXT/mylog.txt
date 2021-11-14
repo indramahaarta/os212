@@ -91,4 +91,12 @@ ZCZC W07 30 L15 Assignment #5
 ZCZC W07 30 L17 Assignment #7
 ZCZC W07 5 L18 Assignment #8
 ZCZC W07 5 L19 Assignment #9
- 
+ZCZC W08 60 L11 Assignment #1
+ZCZC W08 60 L12 Assignment #2 
+ZCZC W08 60 L13 Assignment #3
+ZCZC W08 100 L14 Assignment #4
+ZCZC W08 300 L15 Assignment #5 but fail :(
+ZCZC W08 10 L16 Assingment #6
+ZCZC W08 10 L18 Assingment #8
+ZCZC W08 5 L19 Assingment #9
+

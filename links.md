@@ -38,3 +38,9 @@ This website explains all about concurrency, start from the definition of concur
 ## Week 07
 1. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
 This website provides material about Synchronization, which is quite complete. The author also uses language that is easy to understand, so it is very suitable to help improve our understanding of Synchronization 
+
+## Week 08
+1. [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm#:~:text=Definition,of%20a%20Multiprogramming%20operating%20systems.)
+On this page, we are taught about the scheduling process in the operating system. The material explained is complete and varied.
+
+
